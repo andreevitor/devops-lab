@@ -10,3 +10,6 @@ def divisao(a, b):
     if b == 0:
         return "erro"
     return a / b
+print(subtracao(5,2))
+print(multiplicacao(3,4))
+print(divisao(10,2))
