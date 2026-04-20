@@ -4,3 +4,5 @@ def soma(a, b):
 print("Resultado:", soma(2, 3))
 def subtracao(a, b):
     return a - b
+def multiplicacao(a, b):
+    return a * b
